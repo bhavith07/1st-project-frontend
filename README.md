@@ -1,3 +1,7 @@
-this is a sample cv made using html
+# 1st Project Frontend
 
-https://github.com/bhavith07/1st-project-frontend.git
+## Live Project URL
+https://bhavith07.github.io/1st-project-frontend/
+
+## Description
+This is a single-page CV project built using HTML.
